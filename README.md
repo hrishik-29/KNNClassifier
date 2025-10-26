@@ -1,5 +1,4 @@
-# ElevateLabs_Task6_KNNClassifier
-# Elevate Labs AI & ML Internship - Task 6: K-Nearest Neighbors (KNN) Classification
+# K-Nearest Neighbors (KNN) Classification
 
 ## Objective
 This task aimed to understand and implement the K-Nearest Neighbors (KNN) algorithm for classification problems. The primary tools used were Scikit-learn, Pandas, and Matplotlib[cite: 2].
